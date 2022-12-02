@@ -751,6 +751,9 @@ h1.intro{
         padding-top: 0%;
         height: fit-content;
     }
+    .foods4>img{
+        margin: 50px 0;
+    }
 
     .skincare>H2{
         max-height: 350px;
@@ -798,11 +801,13 @@ h1.intro{
         padding: 0;
     }
     .gadgets>h2{
-        height: 48%;
+        height: 300px;
     }
     .gadgets>img{
         width: 100%;
         height: auto;
+        padding: 0;
+        margin: 0;
     }
 }
 
